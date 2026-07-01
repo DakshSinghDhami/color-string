@@ -43,5 +43,9 @@
     "colour",
     "rgb",
     "css"
-  ]
+  ],
+  "homepage": "https://github.com/Qix-/color-string",
+  "bugs": {
+    "url": "https://github.com/Qix-/color-string/issues"
+  }
 }
